@@ -268,7 +268,7 @@
 	
 ```
 <center>
-[![http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif](http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif "http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif")](http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif "http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif")
+[![http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif](http://www.huisai.top/wp-content/uploads/2017/05/随机地图动图.gif)
 </center>
 
 ----------
